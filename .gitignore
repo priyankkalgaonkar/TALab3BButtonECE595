@@ -1,4 +1,6 @@
-.build
-.mbed
-projectfiles
-*.py*
+BUILD
+compile_commands?json
+?cache
+?mbed
+?clangd
+mbed-os
